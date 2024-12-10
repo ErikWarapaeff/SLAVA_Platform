@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://huggingface.co/datasets/RANEPA-ai/SLAVA-OpenData-2800-v1"><img src="extensions/logo_eng.png" alt="SLAVA"></a>
+</div align="center">
+
 ## SLAVA Platform 🎯
 
 The SLAVA project aims to create an analytical platform for evaluating large language models (LLMs) in the context of the Russian sociocultural environment 🇷🇺. The platform focuses on the accuracy, adequacy, and provocative nature of responses to sensitive questions 🤔. The main goal is to develop tools for assessing LLMs in the Russian-speaking context, particularly for processing and evaluating questions on socio-political and cultural topics 🌍.
