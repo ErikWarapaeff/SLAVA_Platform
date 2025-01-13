@@ -35,17 +35,17 @@ The SLAVA project aims to create an analytical platform for evaluating large lan
 The SLAVA project offers a unique approach to evaluating LLMs, focusing on cultural and sociopolitical aspects, which helps advance the Russian-speaking AI ecosystem 🚀.
 
 ## Example of SLAVA work:
-!['subject_dist'](extensions\subject_dist.png) 
+!['subject_dist'](https://github.com/ErikWarapaeff/SLAVA_Platform/blob/main/extensions/subject_dist.png) 
 
-!['provoc_dist'](extensions\provoc_dist.png) 
+!['provoc_dist'](https://github.com/ErikWarapaeff/SLAVA_Platform/blob/main/extensions/provoc_dist.png) 
 
-!['min_max_dist'](extensions\min_max_dist.png) 
+!['min_max_dist'](https://github.com/ErikWarapaeff/SLAVA_Platform/blob/main/extensions/min_max_dist.png) 
 
-!['block_dist'](extensions\block_dist.png) 
+!['block_dist'](https://github.com/ErikWarapaeff/SLAVA_Platform/blob/main/extensions/block_dist.png)
 
-!['box_plot_category'](extensions\box_plot_category.png) 
+!['box_plot_category'](https://github.com/ErikWarapaeff/SLAVA_Platform/blob/main/extensions/box_plot_category.png) 
 
-!['embeds'](extensions\embeds.png) 
+!['embeds'](https://github.com/ErikWarapaeff/SLAVA_Platform/blob/main/extensions/embeds.png) 
 
 
 
