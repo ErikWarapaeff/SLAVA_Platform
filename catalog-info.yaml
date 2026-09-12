@@ -1,0 +1,23 @@
+apiVersion: engineering.labaicii.tech/v1alpha1
+kind: Component
+metadata:
+  name: slava-platform
+  title: SLAVA Analytics Platform
+  owner: github/ErikWarapaeff
+  tags:
+    - research
+    - benchmark
+    - analytics
+spec:
+  type: research-python
+  lifecycle: active
+  system: slava
+  source:
+    repository: ErikWarapaeff/SLAVA_Platform
+    defaultBranch: main
+    activeBranch: main
+  knowledge:
+    obsidian: Research/SLAVA.md
+  operations:
+    runbook: docs/reproducibility.md
+  environments: []
