@@ -23,4 +23,4 @@ jobs:
       - name: Run CPU-only checks
         run: |
           poetry run python -m compileall -q src tests
-          poetry run pytest -q
+          PYTHONPATH=. poetry run pytest -q

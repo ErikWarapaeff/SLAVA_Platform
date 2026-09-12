@@ -17,5 +17,5 @@ access, or model calls:
 
 ```bash
 poetry install --no-root
-poetry run pytest -q
+PYTHONPATH=. poetry run pytest -q
 ```

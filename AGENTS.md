@@ -12,6 +12,6 @@ metric or interpreting a result.
   copied datasets, model outputs, credentials, personal data, or bulk reports.
 - Treat the Streamlit and MongoDB files as local research utilities. Do not
   infer a production environment or GitOps binding from them.
-- Run `poetry run pytest -q` after changes. Merge-request tests must remain
+- Run `PYTHONPATH=. poetry run pytest -q` after changes. Merge-request tests must remain
   deterministic, CPU-only, and offline.
 - Deliver changes through a reviewed branch and pull request.
